@@ -1,4 +1,4 @@
-Write a python program ff_compute.py to compute the first(X) and follow(X) sets for
+This python program is designed to compute the first(X) and follow(X) sets for
 all nonterminals X of a given context-free grammar G. The nonterminals are capitals, terminals
 are lower case letters, and the empty string is represented as a missing right-hand side. Here is an
 example:   
