@@ -1,0 +1,11 @@
+S' -> S$$
+S -> W
+W -> sCD
+C -> CK
+C ->
+K -> cT
+T -> sb
+T -> s
+T ->
+D -> ds
+D ->
