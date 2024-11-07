@@ -1,0 +1,6 @@
+S' -> S$$
+S -> aSa
+S -> bSb
+S ->
+S -> a
+S -> b
